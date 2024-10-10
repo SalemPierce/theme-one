@@ -11,19 +11,19 @@
         "font": "Fraunces_9pt-Regular.ttf",
         "size": 11,
         "color": "#FFFFFF",
-        "textAlign": "center",
+        "textAlign": "left",
         "fixed": true,
         "offsetX": 0,
         "offsetY": 0
     },
     "title": {
-        "font": "Fraunces_9pt-Regular.ttf",
+        "font": "Fraunces_72pt_Soft-Bold.ttf",
         "size": 36,
         "color": "#FFFFFF"
     },
     "hint": {
-        "font": "Fraunces_9pt-Regular.ttf",
-        "size": 40,
+        "font": "Fraunces_72pt_Soft-Italic.ttf",
+        "size": 24,
         "color": "#FFFFFF"
     },
     "currentpage": {
@@ -33,15 +33,15 @@
         "color": "#FFFFFF"
     },
     "grid": {
-        "font": "Fraunces_9pt-Regular.ttf",
-        "grid1x4": 25,
+        "font": "Fraunces_72pt_Soft-Regular.ttf",
+        "grid1x4": 24,
         "grid3x4": 18,
         "color": "#FFFFFF",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
-        "font": "Fraunces_9pt-Regular.ttf",
-        "size": 25,
+        "font": "Fraunces_72pt_Soft-Regular.ttf",
+        "size": 24,
         "color": "#FFFFFF"
     }
 }
