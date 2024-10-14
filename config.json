@@ -1,20 +1,19 @@
 {
-    "name": "Theme1",
+    "name": "Franky",
     "author": "aWildSalem",
-    "description": "Salem's first OnionOS theme.",
+    "description": "Minimalist theme built around Fraunces.",
     "hideLabels": {
         "icons": false,
         "hints": false
     },
     "batteryPercentage": {
         "visible": true,
-        "font": "Fraunces_9pt-Regular.ttf",
-        "size": 11,
+        "font": "Fraunces_72pt_Soft-Regular.ttf",
+        "size": 18,
         "color": "#FFFFFF",
-        "textAlign": "left",
+        "textAlign": "right",
         "fixed": true,
-        "offsetX": 0,
-        "offsetY": 0
+        "offsetX": -20
     },
     "title": {
         "font": "Fraunces_72pt_Soft-Bold.ttf",
@@ -30,13 +29,13 @@
         "color": "#FFFFFF"
     },
     "total": {
-        "color": "#FFFFFF"
+        "color": "#A3A3A3"
     },
     "grid": {
         "font": "Fraunces_72pt_Soft-Regular.ttf",
         "grid1x4": 24,
         "grid3x4": 18,
-        "color": "#FFFFFF",
+        "color": "#A3A3A3",
         "selectedcolor": "#FFFFFF"
     },
     "list": {
